@@ -1,0 +1,1 @@
+# in this section, we will be using for each and also having our ec2 on each azs in the region, so we will be using the data source named aws_availability_zones 
